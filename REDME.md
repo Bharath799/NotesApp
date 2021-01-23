@@ -1,5 +1,3 @@
-# Notes-App
-
 ## Description
 
 Easy-to-Use, fast, elegant and secure Notes Application. Made using React-Redux, this app lets you save the tasks and particular categories associated to it. The Back-End is made using Node-Express. And the database used is Mongo-Db. The designing tools used in this app are bootstrap.
